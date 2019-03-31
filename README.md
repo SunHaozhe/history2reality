@@ -13,13 +13,13 @@ The dataset, named history2reality, counts 1294 images in total as the criterion
 ## Citation
 
 If you use this dataset for your research, please cite the following.
-
+```
 @misc{history2reality,
   author = {Haozhe Sun},
   title = {history2reality: Dataset for conversion between historical portraits and contemporary portraits.},
   howpublished = {https://github.com/SunHaozhe/history2reality}
 }
-
+```
 
 ## References
 
