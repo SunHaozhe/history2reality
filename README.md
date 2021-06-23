@@ -25,3 +25,7 @@ If you use this dataset for your research, please cite the following.
 
 [1](http://www.ifp.illinois.edu/~vuongle2/helen/) V. Le, J. Brandt, Z. Lin, L. Bourdev, and T. S. Huang. Interactive facial feature localization. In Proceedings of the 12th European Conference on Computer Vision - Volume Part III, ECCV’12, pages 679–692, Berlin, Heidelberg, 2012.
 Springer-Verlag.
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
